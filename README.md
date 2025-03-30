@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/b0ac0861-a044-418f-ab53-6503d343b19f">
+<br>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=800&size=25&pause=1000&color=F70505&background=FF0B0B00&width=600&lines=Securing+systems+in+an+insecure+world.;Ethical+hacking.+Deep+insight.;Curiosity.+Code.+Control.)](https://git.io/typing-svg)
 
 <table width="100" align='left'>
